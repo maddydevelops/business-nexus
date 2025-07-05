@@ -1,12 +1,30 @@
-# React + Vite
+# Business Nexus
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Business Nexus** is a React-based networking platform built to connect **entrepreneurs** and **investors**. It features dedicated dashboards for each user type, profile pages, collaboration request handling, and a real-time communication chat system.
 
-Currently, two official plugins are available:
+🔗 Live Demo: _[Coming Soon / Add Link]_
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔐 Role-based Authentication (Investor / Entrepreneur)
+- 📊 Dashboards for both Entrepreneurs and Investors
+- 👤 Public Profile Pages with ID Routing
+- 🔗 Send & Manage Collaboration Requests
+- 💬 Real-Time Chat UI (mock or live)
+- 📱 Responsive UI with Tailwind CSS
+- 🧪 Built with mock data using JSON Server or MockAPI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+
+| Technology | Usage |
+|------------|--------|
+| React.js   | Frontend Framework |
+| Tailwind CSS | Styling |
+| React Router | Routing & Dynamic URLs |
+| Context API / Redux | State Management |
+| Axios | API Integration |
+| Git & GitHub | Version Control |
+| Vercel/Netlify | Deployment (Recommended) |
+
+## 📂 Folder Structure
+
